@@ -1,3 +1,4 @@
+docs: update readme with additional information
 1.My full name is **Ramazonov Shohruxbek**
 
 2.My email is ***ramazonovshohruxbek111@gmail.com***  Phone number is +998996959568
