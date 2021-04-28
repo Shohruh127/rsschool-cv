@@ -1,3 +1,4 @@
+docs: update description of run() method
 docs: update readme with additional information
 1.My full name is **Ramazonov Shohruxbek**
 
